@@ -38,6 +38,10 @@
     --text-sm: 400 14px/140% var(--font-family-text);
 }
 
+.container {
+    max-width: 1366px;
+    margin-inline: auto;
+}
 
 body {
 

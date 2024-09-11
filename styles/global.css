@@ -46,6 +46,7 @@
 body {
 
 background-color: var(--color-gray-100);
+text-align: center;
 }
 
 h1 {

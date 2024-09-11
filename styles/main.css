@@ -1,7 +1,8 @@
 main {
     max-width: 1366px;
     margin-inline: auto;
-    background-image: url(../assets/images/Background_Intro.png);
+    text-align: center;
+    background-image: url(../Assets/images/Background_Intro.png);
     background-repeat: no-repeat;
     height: 100vh;
     background-size: contain;
